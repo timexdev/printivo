@@ -5,6 +5,7 @@ import Product from './Components/Product'
 import Category from './Components/Category'
 import Testimonial from './Components/Testimonial'
 import Footer from './Components/Footer'
+import Worth from './Components/Worth'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Product></Product>
       <Category></Category>
       <Testimonial></Testimonial>
+      <Worth></Worth>
       <Footer></Footer>
     </div>
   )
